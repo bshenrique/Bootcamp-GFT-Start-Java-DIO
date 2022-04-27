@@ -1,9 +1,10 @@
-# Projetos do Bootcamp Spread da DIO
-Repositório onde estão arquivados os projetos desenvolvidos durante o Bootcamp Spread da DIO.
+# Projetos do Bootcamp GFT Start Java da DIO
+Repositório onde estão arquivados os projetos desenvolvidos durante o Bootcamp GFT Start Java da DIO.
 
 ## Etapas já finalizadas ✔️
-- [X] Lógica de Programação Essencial
-- [ ] Introdução ao Git/GitHub
+- [X] Introdução à Programação e Pensamento Computacional
+- [X] Introdução ao Git/GitHub
+- [ ] Java Fundamental
 
 
 ### Links úteis
